@@ -1,6 +1,6 @@
 package maratonajava.exercicios;
 
-public class Aula6EstruturasCondicionaisExercicio01 {
+public class Aula05EstruturasCondicionaisExercicio01 {
     public static void main(String[] args) {
         // Ver quanto de taxa tenho que pagar de acordo com o salario anual
         double salarioAnual =50000;

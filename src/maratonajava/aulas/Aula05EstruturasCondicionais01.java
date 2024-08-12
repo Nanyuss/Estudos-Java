@@ -1,6 +1,6 @@
 package maratonajava.aulas;
 
-public class Aula5EstruturasCondicionais01 {
+public class Aula05EstruturasCondicionais01 {
     public static void main(String[] args) {
         if(true) System.out.println("Dentro do if com 1 linha");
         if (true) {

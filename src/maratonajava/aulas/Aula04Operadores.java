@@ -32,7 +32,7 @@ public class Aula04Operadores {
           boolean DezMaiorQueVinte = 10 > 20;
           boolean DezMenorQueVinte = 10 < 20;
           boolean DezIgualVinte = 10 == 20;
-          boolean DezIgualDez = 20 == 20;
+          boolean DezIgualDez = 10 == 10;
           boolean DezDiferenteDez = 10 != 10;
 
           System.out.println("Dez maior que vinte: " + DezMaiorQueVinte);

@@ -1,6 +1,6 @@
 package maratonajava.aulas;
 
-public class Aula5EstruturasCondicionais04 {
+public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args) {
         // Imprima o dia da semana, sabendo que 1 é domingo
         byte dia = 6;

@@ -1,6 +1,6 @@
 package maratonajava.aulas;
 
-public class Aula5EstruturasCondicionais02 {
+public class Aula05EstruturasCondicionais02 {
     public static void main(String[] args) {
         // idade < 15 categoria infatil
         // idade >= 15 && idade < 18 categoria juvenil
